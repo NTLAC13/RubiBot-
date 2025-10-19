@@ -23,7 +23,7 @@ from RubiBot import Client, Update
 bot = Client("توکن بات")
 
 ```
-### 3. نمونه استفاده
+### 4. نمونه استفاده
 ```
 from RubiBot import Client, Update
 
